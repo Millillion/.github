@@ -1,13 +1,13 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="millillion-white.png">
-    <img src="millillion-black.png" alt="Millillion: Ɛ∞3" width="420">
+    <img src="millillion-black.png" alt="Millillion: ɛ∞ɜ" width="420">
   </picture>
 </p>
 
 <h3 align="center">Impossibly ambitious AI</h3>
 
-A **millillion** is 10<sup>3003</sup>: a 1 followed by 3,003 zeros. Our mark, Ɛ∞3, reads as 3003.
+A **millillion** is 10<sup>3003</sup>: a 1 followed by 3,003 zeros. Our mark, ɛ∞ɜ, reads as 3003.
 
 Millillion builds software that used to be out of reach for a small team: compilers, language runtimes and verified-programming tools, built in the open by one engineer directing AI agents. Every project is open source.
 
