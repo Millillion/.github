@@ -7,7 +7,7 @@
 
 <h3 align="center">Impossibly ambitious AI</h3>
 
-Some projects only ever live as ideas. An ahead-of-time compiler for a dynamic, interpreted language. Dependent types and formal methods in TypeScript. Real-time validity proving. Real-time cryptographic confidential computing. You can picture them clearly, but their sheer scale, complexity and the mountain of work involved keep them as dreams.
+Some projects only ever live as ideas. An ahead-of-time compiler for a dynamic, interpreted language. Dependent types and formal methods in TypeScript. Real-time zero-knowledge validity proving. Real-time cryptographic confidential computing. You can picture them clearly, but their sheer scale, complexity and the mountain of work involved keep them as dreams.
 
 AI changes that. **Millillion goes after these outrageously ambitious projects, the ones that used to be just dreams, and builds them.** Everything we make is open source.
 
