@@ -7,7 +7,9 @@
 
 <h3 align="center">Impossibly ambitious AI</h3>
 
-Millillion builds software that used to be out of reach for a small team: compilers, language runtimes and verified-programming tools, built in the open by one engineer directing AI agents. Every project is open source.
+Some projects only ever live as ideas. A compiler for an entire language. A runtime that runs anything, anywhere. Software that proves itself correct. You can picture them clearly, but their sheer scale, complexity and the mountain of work involved keep them as dreams.
+
+AI changes that. **Millillion goes after these outrageously ambitious projects, the ones that used to be just dreams, and builds them.** Everything we make is open source.
 
 ### Why "Millillion"?
 A **millillion** is the **thousandth "-illion"**. Each -illion adds three more zeros:
