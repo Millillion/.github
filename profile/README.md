@@ -24,7 +24,7 @@ A **millillion** is the **thousandth "-illion"**. Each -illion adds three more z
 
 The *n*th -illion is 10³ⁿ⁺³, so the 1000th is 10³⁰⁰³: a 1 followed by 3,003 zeros (*milli-* is Latin for "thousand"). There are only about 10⁸⁰ atoms in the observable universe.
 
-Our mark, **ɛ∞ɜ**, is that 3003: an open e and its mirror image, with the zeros turned into infinity.
+Our mark, **ɛ∞ɜ**, is that 3003.
 
 ### Projects
 - **[Lasm](https://github.com/Millillion/lasm)**: compile ordinary Lean 4 programs ahead of time to WebAssembly and run them in Node.js. Native acceptance passes on Linux, macOS and Windows (x86-64 and ARM64).
