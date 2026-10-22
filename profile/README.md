@@ -28,8 +28,8 @@ Our mark, **ɛ∞ɜ**, is that 3003.
 
 ### Projects
 - **[Lasm](https://github.com/Millillion/lasm)**: Lean 4 compiled ahead of time to WebAssembly.
-- **[AyeYaiYai](https://github.com/Millillion/ayeyaiyai)**: an ahead-of-time compiler from JavaScript to WebAssembly.
 - **[ProofScript](https://github.com/Millillion/proofscript)**: TypeScript with dependent types and formal verification.
+- **[AyeYaiYai](https://github.com/Millillion/ayeyaiyai)**: an ahead-of-time compiler from JavaScript to WebAssembly.
 
 ### Follow along
 Star and watch the repos to follow the build. A blog, podcast and sponsorship are on the way.
