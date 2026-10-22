@@ -14,9 +14,15 @@ AI changes that. **Millillion goes after these outrageously ambitious projects, 
 ### Why "Millillion"?
 A **millillion** is the **thousandth "-illion"**. Each -illion adds three more zeros:
 
-> million (1st) = 10<sup>6</sup> · billion (2nd) = 10<sup>9</sup> · trillion (3rd) = 10<sup>12</sup> · … · centillion (100th) = 10<sup>303</sup> · … · **millillion (1000th) = 10<sup>3003</sup>**
+| | Name | Value |
+| --- | --- | --- |
+| 1st | million | 10⁶ |
+| 2nd | billion | 10⁹ |
+| 3rd | trillion | 10¹² |
+| 100th | centillion | 10³⁰³ |
+| **1000th** | **millillion** | **10³⁰⁰³** |
 
-The *n*th -illion is 10<sup>3n+3</sup>, so the 1000th is 10<sup>3003</sup>: a 1 followed by 3,003 zeros (*milli-* is Latin for "thousand"). There are only about 10<sup>80</sup> atoms in the observable universe.
+The *n*th -illion is 10³ⁿ⁺³, so the 1000th is 10³⁰⁰³: a 1 followed by 3,003 zeros (*milli-* is Latin for "thousand"). There are only about 10⁸⁰ atoms in the observable universe.
 
 Our mark, **ɛ∞ɜ**, is that 3003: an open e and its mirror image, with the zeros turned into infinity.
 
