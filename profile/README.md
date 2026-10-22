@@ -27,9 +27,9 @@ The *n*th -illion is 10³ⁿ⁺³, so the 1000th is 10³⁰⁰³: a 1 followed b
 Our mark, **ɛ∞ɜ**, is that 3003.
 
 ### Projects
-- **[Lasm](https://github.com/Millillion/lasm)**: compile ordinary Lean 4 programs ahead of time to WebAssembly and run them in Node.js. Native acceptance passes on Linux, macOS and Windows (x86-64 and ARM64).
-- **[AyeYaiYai](https://github.com/Millillion/ayeyaiyai)**: an AI-first JavaScript → WebAssembly (WASI Preview 2) compiler in Rust, measured against test262.
-- **ProofScript**: TypeScript with mathematical verification. Coming later.
+- **[Lasm](https://github.com/Millillion/lasm)**: Lean 4 compiled ahead of time to WebAssembly.
+- **[AyeYaiYai](https://github.com/Millillion/ayeyaiyai)**: an ahead-of-time compiler from JavaScript to WebAssembly.
+- **[ProofScript](https://github.com/Millillion/proofscript)**: TypeScript with dependent types and formal verification.
 
 ### Follow along
 Star and watch the repos to follow the build. A blog, podcast and sponsorship are on the way.
