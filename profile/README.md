@@ -31,5 +31,8 @@ Our mark, **ɛ∞ɜ**, is that 3003.
 - **[ProofScript](https://github.com/Millillion/proofscript)**: TypeScript with dependent types and formal verification.
 - **[AyeYaiYai](https://github.com/Millillion/ayeyaiyai)**: an ahead-of-time compiler from JavaScript to WebAssembly.
 
+### Support Millillion
+If this work is useful to you or you want to see it succeed, I'd appreciate your sponsorship: [github.com/sponsors/lastmjs](https://github.com/sponsors/lastmjs). It supports me and the work on all of the Millillion projects. My first goal is $250 a month, enough for one dedicated Claude Code account for Lasm. You can also help by starring the repos, trying the projects, and reporting what breaks.
+
 ### Follow along
-Star and watch the repos to follow the build. A blog, podcast and sponsorship are on the way.
+Read the [blog](https://millillion.org/blog), listen to the [podcast](https://millillion.org/podcast), and watch the repos to follow the build.
